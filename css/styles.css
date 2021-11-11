@@ -215,11 +215,13 @@ body {
   list-style: none;
 }
 .slider .slick-dots button {
+  margin: 2px;
   font-size: 0;
-  width: 2px;
-  height: 12px;
+  width: 8px;
+  height: 8px;
   background-color: grey;
   border-radius: 50%;
+  border: 0;
 }
 .slick-dots {
   padding: 0;
